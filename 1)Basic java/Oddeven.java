@@ -5,7 +5,7 @@ public class Oddeven {
         int number = 29;
 
         if ((number & 1) == 0) {
-            System.out.println(number + " is Even");
+            System.out.println(numbers + " is Even");
         } else {
             System.out.println(number + " is Odd");
         }
